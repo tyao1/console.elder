@@ -1,8 +1,9 @@
 ### console.elder
 Stop being naive. Let `console.elder` delight your code. Who doesn't love the elder.
- 
+Inspired by [console.frog](http://tholman.com/console-dot-frog)
+
 ### Getting Started
-Include the `console.frog.js` file into your app.
+Include the `console.elder.js` file into your app.
 
 ```
 // try log
